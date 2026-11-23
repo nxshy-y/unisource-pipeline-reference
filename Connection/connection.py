@@ -32,4 +32,7 @@ class Connect:
                 print(f"Error: {e}")
                 
         return connection
+    
+    def close_connection(self):
+        pass
                 
